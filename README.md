@@ -2,7 +2,8 @@
 A simulator for a simple bank using the LendingClub public loan data set
 
 ## data
-Download the LendingClub data file `loan.csv` from the kaggle site https://www.kaggle.com/wendykan/lending-club-loan-data into the `./data/` directory (it is too large for git).
+Download the LendingClub data file `appl-accepted.csv` from the kaggle site
+https://www.kaggle.com/denychaen/lending-club-loans-rejects-data
 
 ## play
 Use the notebooks in `./notebooks/` to prepare the data, build the classifier, and simulate the bank.
